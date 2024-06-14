@@ -16,7 +16,7 @@ export default function Page() {
           <p className={`${lusitana.className} text-xl text-gray-800 md:text-3xl md:leading-normal`}
           >
             <strong>Welcome to Omni DevX.</strong> This is the prototype for a {' '}
-            <a href="https://nextjs.org/learn/" className="text-blue-500">
+            <a href="https://omnidevx.netlify.app/" className="text-blue-500">
               multinational corporation 
             </a>
             , powered by React, Next.js, and NestJS.
